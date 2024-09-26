@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-25T21:21:52Z" name="Wafilife" finished-at="2024-09-25T21:23:54Z" duration-ms="121728">
+    <groups>
+    </groups>
+    <test started-at="2024-09-25T21:21:52Z" name="Test" finished-at="2024-09-25T21:23:02Z" duration-ms="69162">
+      <class name="com.it.bd.tests.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.LoginTest@4e7912d8]" started-at="2024-09-26T03:21:52Z" name="start" finished-at="2024-09-26T03:22:24Z" duration-ms="32038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest()[pri:0, instance:com.it.bd.tests.LoginTest@4e7912d8]" started-at="2024-09-26T03:22:24Z" name="loginTest" finished-at="2024-09-26T03:22:59Z" duration-ms="34204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.LoginTest@4e7912d8]" started-at="2024-09-26T03:22:59Z" name="report" finished-at="2024-09-26T03:23:02Z" duration-ms="2880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.LoginTest -->
+    </test> <!-- Test -->
+    <test started-at="2024-09-25T21:23:02Z" name="Test1" finished-at="2024-09-25T21:23:21Z" duration-ms="18849">
+      <class name="com.it.bd.tests.WriterTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.WriterTest@15bbf42f]" started-at="2024-09-26T03:23:02Z" name="start" finished-at="2024-09-26T03:23:02Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest()[pri:0, instance:com.it.bd.tests.WriterTest@15bbf42f]" started-at="2024-09-26T03:23:02Z" name="loginTest" finished-at="2024-09-26T03:23:20Z" duration-ms="18502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.WriterTest@15bbf42f]" started-at="2024-09-26T03:23:20Z" name="report" finished-at="2024-09-26T03:23:21Z" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.WriterTest -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-09-25T21:23:21Z" name="Test2" finished-at="2024-09-25T21:23:44Z" duration-ms="23198">
+      <class name="com.it.bd.tests.BookTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.BookTest@223aa2f7]" started-at="2024-09-26T03:23:21Z" name="start" finished-at="2024-09-26T03:23:21Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest()[pri:0, instance:com.it.bd.tests.BookTest@223aa2f7]" started-at="2024-09-26T03:23:21Z" name="loginTest" finished-at="2024-09-26T03:23:43Z" duration-ms="22609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.BookTest@223aa2f7]" started-at="2024-09-26T03:23:43Z" name="report" finished-at="2024-09-26T03:23:44Z" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.BookTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-09-25T21:23:44Z" name="Test3" finished-at="2024-09-25T21:23:54Z" duration-ms="10335">
+      <class name="com.it.bd.tests.OrderTest">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.it.bd.tests.OrderTest@2fd1433e]" started-at="2024-09-26T03:21:41Z" name="startBrowser" finished-at="2024-09-26T03:21:52Z" duration-ms="11215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="start()[pri:0, instance:com.it.bd.tests.OrderTest@2fd1433e]" started-at="2024-09-26T03:23:44Z" name="start" finished-at="2024-09-26T03:23:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="loginTest()[pri:0, instance:com.it.bd.tests.OrderTest@2fd1433e]" started-at="2024-09-26T03:23:44Z" name="loginTest" finished-at="2024-09-26T03:23:54Z" duration-ms="9945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.OrderTest@2fd1433e]" started-at="2024-09-26T03:23:54Z" name="report" finished-at="2024-09-26T03:23:54Z" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.it.bd.tests.OrderTest@2fd1433e]" started-at="2024-09-26T03:23:54Z" name="close" finished-at="2024-09-26T03:23:57Z" duration-ms="3072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.it.bd.tests.OrderTest -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Wafilife -->
+</testng-results>
